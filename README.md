@@ -65,7 +65,7 @@ Projeto de um site completo sobre vendas de produtos relacionados a cultura pop 
 
 ## Deploy da página :dash:
 
-> https://alura-geek-lyart.vercel.app
+> [https://alura-geek-lyart.vercel.app](https://alura-geek-challege.vercel.app)
 
 <br>
 
