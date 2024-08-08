@@ -53,6 +53,7 @@ Projeto de um site completo sobre vendas de produtos relacionados a cultura pop 
   * <i>15/07/2024</i>: `(Página principal - tablet/desktop)` Inicio da adptação na página principal as resoluções alternativas, de tablet e desktop. Obs: um pouco de dificuldade para adicionar um icone no input de search, mas resolução encontrada usando o background do placeholder.
   
   * <i>16/07/2024</i>: `(Página principal - tablet/desktop)` Adição de resoluções alternativas para as imagens presentes na página. Adaptação completa da página principal as resoluções de tablet(768px) e desktop(1440px) no CSS.
+  * <i>07/08/2024</i>: `(Página principal)` Criado o protótipo da função de filtragem de pesquisa.
 
 <br>
 
